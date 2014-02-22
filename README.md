@@ -7,6 +7,8 @@ Completed this site at the MHacks hack-a-thon in Detroit along with my teammates
 
 Complete HTML and CSS project (this helped me become a finalist in the 2012 WebChallenge competition): http://mosdragon.github.io/Mountain-Lions/ <br />
 
+C++ demo project created using Qt Libraries. I used this as a small project to teach me a bit more about C++ so I could build on the UI for our RoboJackets software. Everything is already built, there is just one small executable if you are interested in trying out the project. All instructions are in the README at https://github.com/mosdragon/Qt-demo<br/>
+
 HTML5 and JavaScript pong game: http://mosdragon.github.io/pong/ <br/>
 
 Java Swing GUI made for a mockup startup my teammates and I created at HackATL at Emory, November 2013. The README will tell you exactly how to use the program: https://github.com/mosdragon/ItFits
